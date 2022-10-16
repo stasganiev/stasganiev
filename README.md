@@ -1,22 +1,20 @@
-### Hello everyone! 👋
+## Hello everyone! 👋
 
-I'm Stas Ganiev. I work as JS web-developer.
+I'm Stas Ganiev. I work as developer.
+My home language is Russian, and I speak English by level A2.
 
-# 🔭 I’m currently working on ...
+### 🔭 I’m currently working on
 
+I develop in 1C: Enterprise system, producing and refining configurations by one. I begun work in this sthere in 2001.
 
+### 🌱 I’m currently learning
 
-<!--
-**stasganiev/stasganiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started to lean HTML/CSS/JavaScript in 2019. Today i have several teaching projects and one commercial project.
+Look my products here:
 
-Here are some ideas to get you started:
+### 📫 How to reach me
 
+Tel: +381 645997735 (Serbia),n3mm +7 (924) 202-47-61 (Russai)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
