@@ -1,6 +1,6 @@
 ## Hello everyone! 👋
 
-I'm Stas Ganiev. I'm working as developer by bussines applications and beginer web developer.
+I'm Stas Ganiev. I'm working as developer by business applications and beginer web developer.
 My home language is Russian, and I speak English by level is A2.
 
 ### 🔭 I’m currently working on
