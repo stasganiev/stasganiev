@@ -18,9 +18,23 @@ Look my products here:
 
 ### 📫 How to reach me
 
-Tel: +381 645997735 (Serbia), +7 (924) 202-47-61 (Russia)
-
-Telegram: @stas_ganiev
-
 E-mail: stas@ganiev.pro
 
+<div id="badges">
+  <a href="https://t.me/stas_ganiev">
+    <img src="https://img.shields.io/badge/telegram-0051ff?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="skype:gst_benony">
+    <img src="https://img.shields.io/badge/skype-2b68ea?style=flat&logo=skype&logoColor=white" alt="Skype Badge"/>
+  </a>
+  <a href="https://www.instagram.com/stas_ganiev/">
+    <img src="https://img.shields.io/badge/instagram-ea3232?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCiwGR9bwfIc0RM6ft_ZjH9Q?view_as=subscriber">
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/stanislav.ganiev">
+    <img src="https://img.shields.io/badge/facebook-0d41b3?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+
+</div>
