@@ -1,6 +1,8 @@
 <div id="header" align="center">
-<img src="logofull_300_108.png" width="300" height="108"/>
+  <img src="logofull_300_108.png" width="300" height="108"/>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=stasganiev&style=flat&color=ed5c3c" alt=""/>
 
 ## Hello everyone! 👋
 
