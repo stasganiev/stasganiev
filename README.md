@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="logofull_300_108.png" width="300" height="108"/>
+</div>
+
 ## Hello everyone! 👋
 
 I'm Stas Ganiev. I'm working as developer by business applications and beginer web developer.
