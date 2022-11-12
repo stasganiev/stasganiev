@@ -48,6 +48,10 @@ Look my products here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
 </div>
 
+### :fire: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasganiev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 How to reach me
 
 E-mail: stas@ganiev.pro
