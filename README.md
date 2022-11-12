@@ -18,6 +18,19 @@ I develop in "1C: Enterprise" system, producing and refining configurations by o
 I started to lean HTML/CSS/JavaScript in 2019. Today i have several teaching projects and one commercial project in site-making sphere.
 Look my products here:
 
+### :hammer_and_wrench: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
+</div>
+
+### :hammer_and_wrench: I'm learning right now
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+</div>
+
 ### 📫 How to reach me
 
 E-mail: stas@ganiev.pro
