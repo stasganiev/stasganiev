@@ -15,7 +15,7 @@ I develop in "1C: Enterprise" system, producing and refining configurations by o
 
 ### 🌱 I’m currently learning
 
-I started to lean HTML/CSS/JavaScript in 2019. Today i have several teaching projects and one commercial project in site-making sphere.
+I started to learn web-development in 2019. Today i have several teaching projects and one commercial project in site-making sphere.
 Look my products here:
 
 ### :hammer_and_wrench: Languages and Tools
