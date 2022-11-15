@@ -57,11 +57,8 @@ Look my products here:
 E-mail: stas@ganiev.pro
 
 <div id="badges">
-  <a href="https://t.me/stas_ganiev">
+  <a href="https://t.me/stas_ganiev" target="_blank">
     <img src="https://img.shields.io/badge/telegram-0051ff?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="skype:gst_benony">
-    <img src="https://img.shields.io/badge/skype-2b68ea?style=flat&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
   <a href="https://www.instagram.com/stas_ganiev/">
     <img src="https://img.shields.io/badge/instagram-ea3232?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
