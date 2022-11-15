@@ -2,9 +2,7 @@
   <img src="logofull_300_108.png" width="150" height="54"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=stasganiev&style=flat&color=ed5c3c" alt=""/>
-
-## Hello everyone! 👋
+# Hello everyone! 👋
 
 I'm Stas Ganiev. I'm working as developer by business applications and beginer web developer.
 My home language is Russian, and I speak English by level is A2.
@@ -51,6 +49,8 @@ Look my products here:
 ### :fire: My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasganiev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=stasganiev&style=flat&color=ed5c3c" alt=""/>
 
 ### 📫 How to reach me
 
