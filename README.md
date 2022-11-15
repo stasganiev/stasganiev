@@ -60,13 +60,13 @@ E-mail: stas@ganiev.pro
   <a href="https://t.me/stas_ganiev" target="_blank">
     <img src="https://img.shields.io/badge/telegram-0051ff?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/stas_ganiev/">
+  <a href="https://www.instagram.com/stas_ganiev/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-ea3232?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCiwGR9bwfIc0RM6ft_ZjH9Q?view_as=subscriber">
+  <a href="https://www.youtube.com/channel/UCiwGR9bwfIc0RM6ft_ZjH9Q?view_as=subscriber" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.facebook.com/stanislav.ganiev">
+  <a href="https://www.facebook.com/stanislav.ganiev" target="_blank">
     <img src="https://img.shields.io/badge/facebook-0d41b3?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 
