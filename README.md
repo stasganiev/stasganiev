@@ -50,6 +50,9 @@ Look my products here:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasganiev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stasganiev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stasganiev&theme=dark&hide_border=false)<br/>
 <img src="https://komarev.com/ghpvc/?username=stasganiev&style=flat&color=ed5c3c" alt=""/>
 
 ### 📫 How to reach me
