@@ -50,7 +50,7 @@ Look my products here:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasganiev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stasganiev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stasganiev&theme=dark&hide_border=false)<br/>
 <img src="https://komarev.com/ghpvc/?username=stasganiev&style=flat&color=ed5c3c" alt=""/>
@@ -74,3 +74,7 @@ E-mail: stas@ganiev.pro
   </a>
 
 </div>
+
+
+  ### 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stasganiev) 
