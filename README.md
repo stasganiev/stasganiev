@@ -39,17 +39,17 @@ Passionate about building modern, user-friendly web apps with React, and explori
 
 ## 📂 Featured Projects  
 
-### 🔢 Calculator — Liquid Glass UI ([Live Demo](https://stasganiev.github.io/calculator/))
+### 🔢 Calculator — Liquid Glass UI - [Live Demo](https://stasganiev.github.io/calculator/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=calculator&theme=tokyonight)](https://github.com/stasganiev/calculator)
 
-### 📝 Responsive Registration Form ([Live Demo](https://stasganiev.github.io/authorization-form/))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=responsive-form&theme=tokyonight)](https://github.com/stasganiev/authorization-form)
+### 📝 Responsive Registration Form - [Live Demo](https://stasganiev.github.io/authorization-form/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=authorization-form&theme=tokyonight)](https://github.com/stasganiev/authorization-form)
 
-### 🌐 Personal Website ([Live Demo](https://stasganiev.github.io/benonypro/))
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=personal-website&theme=tokyonight)](https://github.com/stasganiev/benonypro)
+### 🌐 Personal Website - [Live Demo](https://stasganiev.github.io/benonypro/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=benonypro&theme=tokyonight)](https://github.com/stasganiev/benonypro)
 
 ### ⚙️ 1C Code Templates
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=1c-templates&theme=tokyonight)](https://github.com/stasganiev/OnesTemplates)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=OnesTemplates&theme=tokyonight)](https://github.com/stasganiev/OnesTemplates)
 
 ---
 
