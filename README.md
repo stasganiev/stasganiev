@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Stas Ganiev  
-
 <div id="header" align="center">
   <img src="logofull_300_108.png" width="99" height="33"/>
 </div>
+
+# 👋 Hi, I’m Stas Ganiev  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Open+to+Collaboration;From+1C+Senior+Developer+→+React+Frontend)](https://git.io/typing-svg)
 
