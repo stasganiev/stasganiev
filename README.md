@@ -39,8 +39,6 @@ Passionate about building modern, user-friendly web apps with React, and explori
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects  
-
 | 🔢 Calculator — Liquid Glass UI <br/> [Live Demo](https://stasganiev.github.io/calculator/) | 📝 Responsive Registration Form <br/> [Live Demo](https://stasganiev.github.io/authorization-form/) |
 |---|---|
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=calculator&theme=tokyonight)](https://github.com/stasganiev/calculator) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=authorization-form&theme=tokyonight)](https://github.com/stasganiev/authorization-form) |
@@ -48,22 +46,6 @@ Passionate about building modern, user-friendly web apps with React, and explori
 | 🌐 Personal Website <br/> [Live Demo](https://stasganiev.github.io/benonypro/) | ⚙️ 1C Code Templates |
 |---|---|
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=benonypro&theme=tokyonight)](https://github.com/stasganiev/benonypro) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=OnesTemplates&theme=tokyonight)](https://github.com/stasganiev/OnesTemplates) |
-
-
-
-
-
-### 🔢 Calculator — Liquid Glass UI - [Live Demo](https://stasganiev.github.io/calculator/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=calculator&theme=tokyonight)](https://github.com/stasganiev/calculator)
-
-### 📝 Responsive Registration Form - [Live Demo](https://stasganiev.github.io/authorization-form/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=authorization-form&theme=tokyonight)](https://github.com/stasganiev/authorization-form)
-
-### 🌐 Personal Website - [Live Demo](https://stasganiev.github.io/benonypro/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=benonypro&theme=tokyonight)](https://github.com/stasganiev/benonypro)
-
-### ⚙️ 1C Code Templates
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stasganiev&repo=OnesTemplates&theme=tokyonight)](https://github.com/stasganiev/OnesTemplates)
 
 ---
 
