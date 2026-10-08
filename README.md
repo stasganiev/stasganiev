@@ -29,7 +29,3 @@ Both courses run in Russian at the CORS school.
 - LinkedIn: [Stanislav Ganiev](https://www.linkedin.com/in/stanislav-ganiev-73839516b/)
 - YouTube, in Russian: [channel](https://www.youtube.com/channel/UCiwGR9bwfIc0RM6ft_ZjH9Q)
 - Infostart, in Russian: [author profile](https://infostart.ru/profile/61102/)
-
----
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stasganiev)
